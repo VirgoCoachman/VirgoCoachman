@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with diving into open source contribution
 - 📫 How to reach me: whatsapp +243 97 120 8797 / kanku.barthelemy@skills-land.com
 
+![](https://github-readme-stats.vercel.app/api?username=VirgoCoachman&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VirgoCoachman&layout=compact&langs_coutn=10)
+
+[![VirgoCoachman's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirgoCoachman)](https://github.com/VirgoCoachman/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&repo=github-readme-stats)](https://github.com/VirgoCoachman/github-readme-stats)
