@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VirgoCoachman&layout=compact&langs_coutn=10)
 
-[![VirgoCoachman's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirgoCoachman)](https://github.com/VirgoCoachman/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&repo=github-readme-stats)](https://github.com/VirgoCoachman/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&show_icons=true&count_private=true&repo=VirgoBox)](https://github.com/VirgoCoachman/VirgoBox)
