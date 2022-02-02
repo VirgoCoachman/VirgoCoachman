@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **MAPPY SERVER**
+- 🌱 I’m currently learning microservices, natural language processing
+- 🤔 I’m looking for help with diving into open source contribution
+- 📫 How to reach me: whatsapp +243 97 120 8797 / kanku.barthelemy@skills-land.com
+
