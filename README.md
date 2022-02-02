@@ -24,4 +24,12 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VirgoCoachman&layout=compact&langs_coutn=10)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&show_icons=true&count_private=true&repo=VirgoBox)](https://github.com/VirgoCoachman/VirgoBox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&show_icons=true&repo=Smart_traffic_light)](https://github.com/VirgoCoachman/Smart_traffic_light)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&show_icons=true&repo=skills-land)](https://github.com/VirgoCoachman/skills-land)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&show_icons=true&repo=Virjo-Virtual-Assistant)](https://github.com/VirgoCoachman/Virjo-Virtual-Assistant)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&show_icons=true&repo=Puzzle)](https://github.com/VirgoCoachman/Puzzle)
+
