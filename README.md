@@ -33,3 +33,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&show_icons=true&repo=Puzzle)](https://github.com/VirgoCoachman/Puzzle)
 
+![](https://github.com/VirgoCoachman/github-stats/blob/master/generated/overview.svg)
