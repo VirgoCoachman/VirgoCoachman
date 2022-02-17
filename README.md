@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with diving into open source contribution
 - 📫 How to reach me: whatsapp +243 97 120 8797 / kanku.barthelemy@skills-land.com
 
-![](https://github-readme-stats.vercel.app/api?username=VirgoCoachman&show_icons=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VirgoCoachman&layout=compact&langs_coutn=10)
+![](https://github.com/VirgoCoachman/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/VirgoCoachman/github-stats/blob/master/generated/languages.svg)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&show_icons=true&repo=Smart_traffic_light)](https://github.com/VirgoCoachman/Smart_traffic_light)
 
@@ -33,4 +32,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&show_icons=true&repo=Puzzle)](https://github.com/VirgoCoachman/Puzzle)
 
-![](https://github.com/VirgoCoachman/github-stats/blob/master/generated/overview.svg)
+
