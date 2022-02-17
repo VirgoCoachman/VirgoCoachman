@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ![](https://github.com/VirgoCoachman/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/VirgoCoachman/github-stats/blob/master/generated/languages.svg)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&show_icons=true&repo=shoppy-mappy)](https://github.com/VirgoCoachman/shoppy-mappy)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&show_icons=true&repo=Smart_traffic_light)](https://github.com/VirgoCoachman/Smart_traffic_light)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&show_icons=true&repo=skills-land)](https://github.com/VirgoCoachman/skills-land)
