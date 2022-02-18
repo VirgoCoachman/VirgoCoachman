@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![](https://github.com/VirgoCoachman/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/VirgoCoachman/github-stats/blob/master/generated/languages.svg)
 
+[![Generate Stats Images](https://github.com/VirgoCoachman/github-stats/actions/workflows/main.yml/badge.svg)](https://github.com/VirgoCoachman/github-stats/actions/workflows/main.yml)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VirgoCoachman&show_icons=true&repo=Smart_traffic_light)](https://github.com/VirgoCoachman/Smart_traffic_light)
 
