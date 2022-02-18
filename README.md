@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **MAPPY SERVER**
 - 🌱 I’m currently learning microservices, natural language processing
 - 🤔 I’m looking for help with diving into open source contribution
-- 📫 How to reach me: whatsapp +243 97 120 8797 / kanku.barthelemy@skills-land.com
+- 📫 How to reach me: whatsapp +243 97 120 8797 / kanku.barthelemy@mappy.africa
 
 ![](https://github.com/VirgoCoachman/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/VirgoCoachman/github-stats/blob/master/generated/languages.svg)
