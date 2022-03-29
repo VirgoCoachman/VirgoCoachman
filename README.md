@@ -58,13 +58,13 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="#" alt="VirgoCoachman's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirgoCoachman&theme=tokyonight&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VirgoCoachman&show_icons=true&count_private=true" />
  </a>
 </p>
 
 <p align="center">
  <a href="#" alt="VirgoCoachman's github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirgoCoachman&layout=compact&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirgoCoachman&layout=compact&show_icons=true" />
  </a>
 </p>
 
