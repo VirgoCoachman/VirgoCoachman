@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="100%" height = "auto" src="https://i.imgur.com/9de2Ow0.jpg" alt="cover" />
+<img width="100%" height = "auto" src="./faith_hope_love (copie).png" alt="cover" />
 
-<h1 align="center">Hi there, I'm Ben Kanku Barthelemy 👋</h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=0969da&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Ben+KANKU+B." alt="VirgoCoachman" /></h1>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/ben-kanku-barthelemy-b39756155/" target="_blank">
@@ -46,7 +46,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
 </p>
 
-
 <br>
 
 - 🔭 I’m currently working on **MAPPY SERVER**
@@ -59,3 +58,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="#" alt="VirgoCoachman
+
+                  
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=VirgoCoachman&show_icons=true&count_private=true" alt="VirgoCoachman" style="width:370px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirgoCoachman&" style="width:370px" alt="VirgoCoachman" /></p>                  
+            
