@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img width="100%" height = "auto" src="https://i.imgur.com/9de2Ow0.jpg" alt="cover" />
 
 <h1 align="center">Hi there, I'm Ben Kanku Barthelemy 👋</h1>
 
@@ -57,27 +58,4 @@ Here are some ideas to get you started:
 </br>
 
 <p align="center">
- <a href="#" alt="VirgoCoachman's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=VirgoCoachman&show_icons=true&count_private=true" />
- </a>
-</p>
-
-<p align="center">
- <a href="#" alt="VirgoCoachman's github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirgoCoachman&layout=compact&show_icons=true" />
- </a>
-</p>
-
-
-<p align="center">
- <a href="https://www.buymeacoffee.com/BenKanku" target="_blank">
-  <img src="./default-orange.png" height="61" width="194" />
- </a>
-</p>
-
-
-
-
-
-
-
+ <a href="#" alt="VirgoCoachman
