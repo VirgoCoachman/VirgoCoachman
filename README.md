@@ -103,6 +103,13 @@ Here are some ideas to get you started:
 </p>
 
 <br>
+
+
+<h2 align="left">My Stats:</h2>
                   
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=VirgoCoachman&show_icons=true&count_private=true" alt="VirgoCoachman" style="width:370px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirgoCoachman&" style="width:370px" alt="VirgoCoachman" /></p>                  
             
+
+<h2 align="left">Programming languages:</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirgoCoachman)
