@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/BenKanku" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
+  <img src="./default-orange.png" height="61" width="194" />
  </a>
 </p>
 
