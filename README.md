@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img width="100%" height = "auto" src="./faith_hope_love (copie).png" alt="cover" />
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=0969da&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Ben+KANKU+B." alt="VirgoCoachman" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=0969da&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Virgo+Coachman" alt="VirgoCoachman" /></h1>
 
 
 <h5 align="center"><em>A passionate Software Engineer from Democratic Republic of Congo (DRC)</em></h5>
