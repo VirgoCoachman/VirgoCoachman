@@ -107,10 +107,15 @@ Here are some ideas to get you started:
 
 <h2 align="left">My Stats:</h2>
                   
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=VirgoCoachman&show_icons=true&count_private=true" alt="VirgoCoachman" style="width:370px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirgoCoachman&" style="width:370px" alt="VirgoCoachman" /></p>                  
-            
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=VirgoCoachman&show_icons=true&count_private=true" alt="VirgoCoachman" style="width:370px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirgoCoachman&" style="width:370px" alt="VirgoCoachman" /></p> 
 
+<br/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=VirgoCoachman&theme=react-dark&hide_border=true&area=true)
+
+<br/>
 <h2 align="left">Programming languages:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirgoCoachman)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirgoCoachman&langs_count=10&&layout=compact&hide=html,css,assembly,shell,pascal,qmake)
+
 
