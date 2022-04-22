@@ -32,21 +32,40 @@ Here are some ideas to get you started:
     </tr>
   </thead>
   <tbody>
-   <!-- <tr>
-      <td><a href="https://github.com/luccin243/food-delivrery"><b>Food Delivrery App</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/luccin243/food-delivrery?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/luccin243/food-delivrery?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/luccin243/food-delivrery?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luccin243/food-delivrery?style=flat-square&labelColor=343b41"/></td>
+   <tr>
+      <td><a href="https://github.com/VirgoCoachman/lottie_animation_python"><b>Lottie animation with Tornado(python)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/VirgoCoachman/lottie_animation_python?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/VirgoCoachman/lottie_animation_python?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/VirgoCoachman/lottie_animation_python?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/VirgoCoachman/lottie_animation_python?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/luccin243/building-wakanda"><b>Simple website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/luccin243/building-wakanda?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/luccin243/building-wakanda?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/luccin243/building-wakanda?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luccin243/building-wakanda?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/VirgoCoachman/Smart_traffic_light"><b>Smart Traffic Light</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/VirgoCoachman/Smart_traffic_light?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/VirgoCoachman/Smart_traffic_light?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/VirgoCoachman/Smart_traffic_light?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/VirgoCoachman/Smart_traffic_light?style=flat-square&labelColor=343b41"/></td>
     </tr>
-  </tbody>-->
+    <tr>
+      <td><a href="https://github.com/VirgoCoachman/Smart_Traffic_Light_Simulation"><b>Smart Traffic Light Simulation</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/VirgoCoachman/Smart_Traffic_Light_Simulation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/VirgoCoachman/Smart_Traffic_Light_Simulation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/VirgoCoachman/Smart_Traffic_Light_Simulation?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/VirgoCoachman/Smart_Traffic_Light_Simulation?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+<!--     <tr>
+      <td><a href="https://github.com/VirgoCoachman/Virjo-Virtual-Assistant
+"><b>Virgo Virtual Assistant</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/VirgoCoachman/Virjo-Virtual-Assistant
+?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/VirgoCoachman/Virjo-Virtual-Assistant
+?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/VirgoCoachman/Virjo-Virtual-Assistant
+?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/VirgoCoachman/Virjo-Virtual-Assistant
+?style=flat-square&labelColor=343b41"/></td>
+    </tr> -->
+  </tbody>
 </table>
 
 <br/>
