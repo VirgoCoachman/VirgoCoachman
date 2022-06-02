@@ -82,6 +82,15 @@ Here are some ideas to get you started:
 
 <br>
 
+<p align="center">
+ <a href="https://www.buymeacoffee.com/BenKanku" target="_blank">
+  <img src="./default-orange.png" height="61" width="194" />
+ </a>
+</p>
+
+<br>
+<br>
+
 
 <h2 align="left">Social Medias:</h2>
 
