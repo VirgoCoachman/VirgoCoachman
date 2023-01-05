@@ -136,7 +136,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=VirgoCoachman&theme=react-dark&hide_border=true&area=true)
 [![VirgoCoachman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VirgoCoachman&theme=react-dark&hide_border=true&area=true)](https://github.com/VirgoCoachman/github-readme-activity-graph)
 
 <br/>
