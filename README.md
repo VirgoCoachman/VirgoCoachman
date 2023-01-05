@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 
 [![Test](https://github.com/anuraghazra/github-readme-stats/actions/workflows/test.yml/badge.svg)](https://github.com/anuraghazra/github-readme-stats/actions/workflows/test.yml)
                   
-<p align="left"><img src="https://github-virgo-coachman-stats-96q6.vercel.app/api?username=VirgoCoachman&show_icons=true&count_private=true&theme=react" alt="VirgoCoachman" style="width:370px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirgoCoachman&theme=react" style="width:370px" alt="VirgoCoachman" /></p> 
+<p align="left"><img src="https://github-virgo-coachman-stats.vercel.app/api?username=VirgoCoachman&show_icons=true&count_private=true&theme=react" alt="VirgoCoachman" style="width:370px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirgoCoachman&theme=react" style="width:370px" alt="VirgoCoachman" /></p> 
 
 <br/>
 
@@ -141,7 +141,7 @@ Here are some ideas to get you started:
 <br/>
 <h2 align="left">Programming languages:</h2>
 
-![Top Langs](https://github-virgo-coachman-stats-96q6.vercel.app/api/top-langs/?username=VirgoCoachman&count_private=true&langs_count=10&&layout=compact&hide=html,css,assembly,shell,pascal,qmake,scss,hack,mako&theme=react)
+![Top Langs](https://github-virgo-coachman-stats.vercel.app/api/top-langs/?username=VirgoCoachman&count_private=true&langs_count=10&&layout=compact&hide=html,css,assembly,shell,pascal,qmake,scss,hack,mako&theme=react)
 
 
 
