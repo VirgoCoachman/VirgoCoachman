@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 
 [![Test](https://github.com/anuraghazra/github-readme-stats/actions/workflows/test.yml/badge.svg)](https://github.com/anuraghazra/github-readme-stats/actions/workflows/test.yml)
                   
-<p align="left"><img src="https://github-virgo-coachman-stats.vercel.app/api?username=VirgoCoachman&show_icons=true&count_private=true&theme=react" alt="VirgoCoachman" style="width:370px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirgoCoachman&theme=react" style="width:370px" alt="VirgoCoachman" /></p> 
+<p align="left"><img src="github-virgo-coachman-stats-96q6.vercel.app/api?username=VirgoCoachman&show_icons=true&count_private=true&theme=react" alt="VirgoCoachman" style="width:370px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirgoCoachman&theme=react" style="width:370px" alt="VirgoCoachman" /></p> 
 
 <br/>
 
