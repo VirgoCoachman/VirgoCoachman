@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h5 align="center"><em>A passionate Software Engineer from Democratic Republic of Congo (DRC)</em></h5>
 
-<h2>Open source projects</h2>
+<!-- <h2>Open source projects</h2>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/VirgoCoachman/Virjo-Virtual-Assistant?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <br/>
 
@@ -69,11 +69,9 @@ Here are some ideas to get you started:
 
 <img width="35%" align="right" alt="Github" src="./faith_hope_love_computer.jpeg" />
 
-- 🔭 I’m currently working on **MAPPY SERVER**
+- 🔭 I’m currently working on **a Christian Social Network**
 
-- 🌱 I’m currently learning microservices, natural language processing
-
-- 🤔 I’m looking for help with diving into open source contribution
+- 🌱 I’m currently learning clean architectures for web and mobile development
 
 - 📫 How to reach me: whatsapp +243 97 120 8797 / kanku.barthelemy@skills-land.com
 
