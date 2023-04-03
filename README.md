@@ -145,6 +145,6 @@ Here are some ideas to get you started:
 <br/>
 <h2 align="left">Programming languages:</h2>
 
-![Top Langs](https://github-virgo-coachman-stats.vercel.app/api/top-langs/?username=VirgoCoachman&count_private=true&langs_count=10&&layout=compact&hide=html,css,assembly,shell,pascal,qmake,scss,hack,mako&theme=react)
+![Top Langs](https://github-virgo-coachman-stats.vercel.app/api/top-langs/?username=VirgoCoachman&count_private=true&langs_count=10&&layout=compact&hide=html,css,assembly,shell,pascal,qmake,scss,hack,mako,cmake&theme=react)
 
 
